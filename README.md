@@ -5,4 +5,4 @@ Original code from code skulptor
 
 http://www.codeskulptor.org/#user38_eNLfhFUlVK_1.py 
 
-Status: Incomplete
+Status: Incomplete. Arcade framework for GUI constructed.
