@@ -3,4 +3,6 @@ Stopwatch game from Rice University's python course, modified to use python Arca
 
 Original code from code skulptor
 
-http://www.codeskulptor.org/#user38_eNLfhFUlVK_1.py  stopwatch game
+http://www.codeskulptor.org/#user38_eNLfhFUlVK_1.py 
+
+Status: Incomplete
